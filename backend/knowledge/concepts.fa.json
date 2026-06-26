@@ -1,0 +1,51 @@
+[
+  {
+    "id": "C001",
+    "name": "سیگنال",
+    "aliases": ["حقیقت"],
+    "definition": "لایه اصیل واقعیت",
+    "related_principles": ["P001", "P002"]
+  },
+  {
+    "id": "C002",
+    "name": "نویز",
+    "aliases": ["اختلال", "تحریف"],
+    "definition": "هر عامل مخدوش‌کننده ادراک",
+    "related_principles": ["P001", "P002"]
+  },
+  {
+    "id": "C003",
+    "name": "اثر دومینو",
+    "aliases": ["دومینو", "زنجیره پیامد"],
+    "definition": "پیامدهای زنجیره‌ای ناشی از نیت و انتخاب",
+    "related_principles": ["P003"]
+  },
+  {
+    "id": "C004",
+    "name": "غرور",
+    "aliases": ["تکبر"],
+    "definition": "باگ سیستمی در ادراک و عمل",
+    "related_principles": ["P004"]
+  },
+  {
+    "id": "C005",
+    "name": "وضعیت صفر",
+    "aliases": ["حالت صفر"],
+    "definition": "حالت مشاهده شفاف و بدون واکنش اضافه",
+    "related_principles": ["P005"]
+  },
+  {
+    "id": "C006",
+    "name": "عبادت",
+    "aliases": ["پرستش"],
+    "definition": "تنظیم و بازتنظیم انسان با منبع",
+    "related_principles": ["P006"]
+  },
+  {
+    "id": "C007",
+    "name": "عدالت",
+    "aliases": ["توازن"],
+    "definition": "قرار گرفتن هر چیز در جای درست",
+    "related_principles": ["P007"]
+  }
+]
