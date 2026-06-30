@@ -1,8 +1,9 @@
+
 {
   "rewrites": [
     {
-      "source": "/ask",
-      "destination": "/api/ask"
+      "source": "/api/question",
+      "destination": "/ask"
     }
   ]
 }
